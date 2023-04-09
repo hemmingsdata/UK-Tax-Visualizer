@@ -26,6 +26,8 @@ ni_rate_2 = 0.02
 # Student loan repayments
 student_loan_plan_2_threshold = 27295
 student_loan_plan_2_rate = 0.09
+student_loan_postgraduate_threshold = 21000
+student_loan_postgraduate_rate = 0.06
 
 # Salary range
 salary_top_range = 250000
